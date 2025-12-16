@@ -1,4 +1,4 @@
-def # Subtract Machine
+# Subtract Machine
 def subtract(a, b):
     return a - b
     
